@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>f3b.png</file>
+        <file>mooodel.png</file>
+        <file>mooooodel.png</file>
+        <file>fai.jpg</file>
+        <file>moooodeeel.png</file>
+    </qresource>
+</RCC>
